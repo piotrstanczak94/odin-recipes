@@ -1,1 +1,1 @@
-This is first project from The Odin Project. I learned a lot about HTML and some CSS. It is page about my favourite recipes. I use only semantic HTML to show what I can do in this moment.
+This is first project from The Odin Project. I learned a lot about HTML and some CSS. It is page about my favourite recipes. I use only semantic HTML to show what I can do at this moment.
